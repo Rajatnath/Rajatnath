@@ -68,15 +68,15 @@ A **web-first cross-platform sync tool** that lets you share files & clipboard i
 
 ## ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatnathmishra&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatnath&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatnathmishra&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatnath&theme=tokyonight" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatnathmishra&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatnath&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
 ---
