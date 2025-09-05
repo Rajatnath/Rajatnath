@@ -45,10 +45,14 @@ A **web-first cross-platform sync tool** that lets you share files & clipboard i
 
 ---
 
-## 📚 Current Focus
-- Strengthening **DSA in Python**  
-- Practicing **full-stack development** (Node.js + MongoDB)  
-- Building portfolio-ready projects  
+## 🗓️ Student Journey
+- **2024** → Completed Diploma in Electronics & Communication  
+- **2025 (Early)** → Started B.Tech CSE @ BVCOE  
+- **2025 (Now)** →  
+   - Building **Di-rect**  
+   - Learning **DSA in Python**  
+   - Exploring **full-stack development (Node.js + MongoDB)**  
+- **2026 (Goal)** → Land an internship in software development, deepen system-level understanding  
 
 ---
 
@@ -57,7 +61,7 @@ A **web-first cross-platform sync tool** that lets you share files & clipboard i
   <a href="https://www.linkedin.com/in/rajatnath-mishra-411499276/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/RajatnathMishra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/_rajatnath_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:mrajatnath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:rajat.mishra.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
